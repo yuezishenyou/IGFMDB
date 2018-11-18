@@ -26,6 +26,7 @@
      * 参考文档：
      * 一位大神的思想  但他没做， 切换账号和数据库版本升级的问题
      * Github: https://github.com/liuchongfaye/YIIFMDB
+     QQ: 993056895 欢迎询问和咨询。
      */
 
     
